@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575244131 source:/media/pssantos/HDD/C projects/ReadBMP/main.c
+	<stdio.h>
+	<stdlib.h>
+
